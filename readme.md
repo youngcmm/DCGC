@@ -1,2 +1,2 @@
 * DCGC
-  * it is my second work.
+  * When the paper is accepted, i will share the code.
