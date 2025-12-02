@@ -2,7 +2,7 @@
 
 This repository contains the implementation of the Deep Comprehensive Graph Clustering algorithm.
 
-![Flowchart](fig/flowchart_v1.pdf)
+![img.png](fig/flowchart_v1.png)
 
 ## Overview
 
